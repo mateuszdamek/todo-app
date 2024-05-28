@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "61a6",
+      "text": "Sprzątanie",
+      "category": "Pilne",
+      "isDaily": false
+    },
+    {
+      "id": "19f9",
+      "text": "Kurze",
+      "category": "Ważne",
+      "isDaily": true
+    },
+    {
+      "id": "03eb",
+      "text": "Witam",
+      "category": "Nie",
+      "isDaily": true
+    },
+    {
+      "id": "0113",
+      "text": "Kategoria",
+      "category": "Tak",
+      "isDaily": false
+    }
+  ]
+}
